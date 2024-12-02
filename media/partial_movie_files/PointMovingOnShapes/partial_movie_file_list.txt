@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PointMovingOnShapes/1185818338_3425739197_4159515603.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PointMovingOnShapes/624642324_3141526031_2799868931.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PointMovingOnShapes/624642324_1116973454_496602590.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PointMovingOnShapes/624642324_2087808126_2799868931.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PointMovingOnShapes/624642324_1733944848_3817232437.mp4'

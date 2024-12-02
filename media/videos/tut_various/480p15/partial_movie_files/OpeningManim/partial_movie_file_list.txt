@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/1185818338_3584673396_223132457.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_1733944848_1858023975.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_3781099221_1084955206.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_1733944848_2399195287.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_2139506398_3457279939.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_1733944848_1141308773.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_1657337192_2987524152.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_1733944848_1799170778.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_3854906372_3890393350.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_various/480p15/partial_movie_files/OpeningManim/624642324_1733944848_1199783385.mp4'

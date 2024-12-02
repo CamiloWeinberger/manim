@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/ContinuousMotion/1185818338_286574543_3698386592.mp4'

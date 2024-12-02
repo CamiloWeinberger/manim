@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_eqvid/480p15/partial_movie_files/MovingFrameBox/1185818338_3704135636_223132457.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_eqvid/480p15/partial_movie_files/MovingFrameBox/624642324_308901824_1104417446.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_eqvid/480p15/partial_movie_files/MovingFrameBox/624642324_1733944848_1317710613.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_eqvid/480p15/partial_movie_files/MovingFrameBox/624642324_4006640684_1002451279.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/tut_eqvid/480p15/partial_movie_files/MovingFrameBox/624642324_1733944848_2471469970.mp4'

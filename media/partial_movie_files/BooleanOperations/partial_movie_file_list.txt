@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/1185818338_279624727_223132457.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_2714408700_690547250.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_1212129449_2279680580.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_2124811125_512654842.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_1118353701_3039494810.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_325254382_3157000758.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_3015398555_897905956.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_3529417223_964517351.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/BooleanOperations/624642324_541555646_3116323079.mp4'

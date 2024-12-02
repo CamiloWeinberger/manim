@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/MovingAngle/1185818338_123554531_3770713235.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/MovingAngle/624642324_943063281_2994607314.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/MovingAngle/624642324_1732576810_34898121.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/MovingAngle/624642324_2376082565_4195768060.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/MovingAngle/624642324_3120122460_1391537323.mp4'

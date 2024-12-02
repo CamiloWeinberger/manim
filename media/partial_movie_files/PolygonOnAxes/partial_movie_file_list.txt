@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PolygonOnAxes/1185818338_4241308734_738110838.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PolygonOnAxes/624642324_1845700232_658677451.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PolygonOnAxes/624642324_329269617_102962764.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/PolygonOnAxes/624642324_4034480303_3899190572.mp4'

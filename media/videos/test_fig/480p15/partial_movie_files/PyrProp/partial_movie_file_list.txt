@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/test_fig/480p15/partial_movie_files/PyrProp/1185818338_2449769315_1026751453.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/test_fig/480p15/partial_movie_files/PyrProp/624642324_784179552_2470949773.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/test_fig/480p15/partial_movie_files/PyrProp/624642324_388835869_2097516308.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/videos/test_fig/480p15/partial_movie_files/PyrProp/624642324_1733944848_1832532656.mp4'
