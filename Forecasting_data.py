@@ -3,11 +3,11 @@ from manim import *
 class Data_create(Scene):
     def construct(self):
         mob= Square()
-        text = MarkupText('Seeing<sub>t</sub>')
+        text = MarkupText('Seeing t<sub>k</sub>')
         text.next_to(mob, UP)
         
         mob2= Rectangle(height=.4 ,width=6,grid_xstep = .4, grid_ystep=0,color= WHITE).move_to(UP*1.2 + RIGHT*1.2)
-        text2 = MarkupText('S<sub>t</sub>   S<sub>t+1</sub>   S<sub>t+2</sub>   S<sub>t+3</sub>   S<sub>t+3</sub>      ...      S<sub>t+k</sub>').scale(.6)
+        text2 = MarkupText('S<sub>t<sub>-3</sub></sub>   S<sub>t<sub>-2</sub></sub>   S<sub>t<sub>-1</sub></sub>   S<sub>t<sub>0</sub></sub>   S<sub>t<sub>1</sub></sub>   S<sub>t<sub>2</sub></sub>   S<sub>t<sub>3</sub></sub>    ...    S<sub>t<sub>n</sub></sub>').scale(.6)
         text2.next_to(mob2, UP)
 
         self.play(Create(mob,),Write(text))
