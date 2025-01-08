@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/1185818338_2461308519_223132457.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_784179552_3761766856.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_901932073_2710014167.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_784179552_1920856941.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_1628423897_1548681004.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_4144643722_3883212107.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_1398934283_958761750.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_4159024150_2138562084.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_3196480024_4258347308.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_152067921_3042956009.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_1481004254_643615380.mp4'
+file 'file:C:/Users/Camilo/Documents/GitHub/manim/media/partial_movie_files/Data_create/624642324_4105491939_1142529131.mp4'
