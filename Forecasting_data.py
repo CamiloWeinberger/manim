@@ -32,8 +32,7 @@ class Data_create(Scene):
                   raw7.animate.move_to(DOWN*1.2 + LEFT*1.2))
         self.play(Create(mob2.scale(1.5)), Write(text3))
         self.wait(2)
-        self.play(FadeOut(text),FadeOut(text2),FadeOut(text3))
-        self.play(Rotate(mob2,PI/2),FadeOut(raw),FadeOut(mob), FadeOut(raw), 
+        self.play(FadeOut(text),FadeOut(text2),FadeOut(text3),FadeOut(raw),FadeOut(mob), FadeOut(raw), 
                   FadeOut(raw2),FadeOut(raw3), FadeOut(raw4), FadeOut(raw5),
                   FadeOut(raw6),FadeOut(raw7))
         #self.wait(2)
@@ -45,12 +44,12 @@ class Data_create(Scene):
         self.play(Create(arrow1),Write(text4),Create(arrow2),Write(text5))
         self.wait(2)
         self.play(FadeOut(arrow1),FadeOut(arrow2),FadeOut(text4),FadeOut(text5))
-        self.wait(1)
+        #self.wait(1)
         
-class Data_block(Scene):
-    def construct(self):        
+        #class Data_block(Scene):
+        #def construct(self):        
         ## SCENE 3
-        mob2 = Square(color= RED, fill_opacity = .5).scale(1.5)
+        #mob2 = Square(color= RED, fill_opacity = .5).scale(1.5)
         Data1 = Square(color= BLUE, fill_opacity = .5)
         Data2 = Square(color= GREEN, fill_opacity = .5)
         Data3 = Square(color= YELLOW, fill_opacity = .5)
@@ -66,11 +65,12 @@ class Data_block(Scene):
         T6 = MarkupText('Seeing',color=RED).move_to(RIGHT*4 + DOWN*2).scale(.5)
         
         self.play(mob2.animate.move_to(RIGHT*4).scale(1/1.5))
-        self.play(FadeIn(Data1.move_to(LEFT*4.4+DOWN*0.4)),
-                  FadeIn(Data2.move_to(LEFT*4.2 + DOWN*.2)),
-                  FadeIn(Data3.move_to(LEFT*4)),
-                  FadeIn(Data4.move_to(LEFT*3.8 + UP*0.2)),
+        self.play(
                   FadeIn(Data5.move_to(LEFT*3.6 + UP*0.4)),
+                  FadeIn(Data4.move_to(LEFT*3.8 + UP*0.2)),
+                  FadeIn(Data3.move_to(LEFT*4)),
+                  FadeIn(Data2.move_to(LEFT*4.2 + DOWN*.2)),
+                  FadeIn(Data1.move_to(LEFT*4.4+DOWN*0.4)),
                   FadeIn(Arrow(LEFT,RIGHT,color= WHITE).move_to(2*LEFT)),
                   FadeIn(Arrow(LEFT,RIGHT,color= WHITE).move_to(2*RIGHT)),
                   FadeIn(Square(color= WHITE)),
