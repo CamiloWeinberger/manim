@@ -33,7 +33,8 @@ class Random_forest(Scene):
         t3_1 = Table([['S2','T2','C2','P2','o2']], include_outer_lines=True).scale(.3).move_to(UP*.8 + LEFT*4).add_highlighted_cell((1,1),color=RED).add_highlighted_cell((1,2),color=BLUE).add_highlighted_cell((1,3),color=GREEN).add_highlighted_cell((1,4),color=YELLOW).add_highlighted_cell((1,5),color=ORANGE)
         t4_1 = Table([['S3','T3','C3','P3','o3']], include_outer_lines=True).scale(.3).move_to(UP*.4 + LEFT*4).add_highlighted_cell((1,1),color=RED).add_highlighted_cell((1,2),color=BLUE).add_highlighted_cell((1,3),color=GREEN).add_highlighted_cell((1,4),color=YELLOW).add_highlighted_cell((1,5),color=ORANGE)
         self.play(Transform(mob0,t1))
-        self.play(t2_1.animate.move_to(UP*1.2 + LEFT*1),t3_1.animate.move_to(UP*1.2 + RIGHT*2))#,t4_1.animate.move_to(UP*1.2 + RIGHT*5))
+        self.play(t2_1.animate.move_to(UP*1.2 + LEFT*1))
+        self.play(t3_1.animate.move_to(UP*1.2 + RIGHT*2))#,t4_1.animate.move_to(UP*1.2 + RIGHT*5))
         
         t5 = Table([['S2','T2','C2','P2','o2']], include_outer_lines=True).scale(.3).move_to(UP*.8 + LEFT*4).add_highlighted_cell((1,1),color=RED).add_highlighted_cell((1,2),color=BLUE).add_highlighted_cell((1,3),color=GREEN).add_highlighted_cell((1,4),color=YELLOW).add_highlighted_cell((1,5),color=ORANGE)
         t6 = Table([['S3','T3','C3','P3','o3']], include_outer_lines=True).scale(.3).move_to(UP*.4 + LEFT*4).add_highlighted_cell((1,1),color=RED).add_highlighted_cell((1,2),color=BLUE).add_highlighted_cell((1,3),color=GREEN).add_highlighted_cell((1,4),color=YELLOW).add_highlighted_cell((1,5),color=ORANGE)
